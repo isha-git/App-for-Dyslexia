@@ -28,7 +28,7 @@ Main Features of application include:-
 2) Speech-to-Text
 3) Practice spelling and pronunciations
 
-<img src="https://github.com/Isha-git/Coping-with-Dyslexia/tree/master/Images/HomePage.png" width="300">
+<img src="https://github.com/isha-git/App-for-Dyslexia/blob/master/images/StartPage.png" width="300">
 
 # Text-to-speech
 User can scan any text and easily get the pronunciation of words.
