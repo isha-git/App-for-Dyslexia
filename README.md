@@ -11,7 +11,7 @@ similar visual conditions.
 An easily available, less expensive and safe online tool for dyslexics.
 We made an android application for dyslexics.
 
-<img src="https://github.com/Isha-git/Coping-with-Dyslexia/tree/master/Images/StartPage.png" width="300">
+<img src="https://github.com/isha-git/App-for-Dyslexia/tree/master/images/StartPage.png" width="300">
 
 Easy to follow steps to use.
 Can regularly practice and instantly get solutions for their problems.
@@ -35,21 +35,21 @@ User can scan any text and easily get the pronunciation of words.
 Done using <a href="https://codelabs.developers.google.com/codelabs/mobile-vision-ocr/#0"> Android vision text (ocr- optical character recognition) API </a>.
 Get pronunciation easily, just by tapping on the mobile phone screen.
 
-<img src="https://github.com/Isha-git/Coping-with-Dyslexia/tree/master/Images/TextToSpeech.png" width="300">
-<img src="https://github.com/Isha-git/Coping-with-Dyslexia/tree/master/Images/TextToSpeechExample.jpeg" width="300">
+<img src="https://github.com/isha-git/App-for-Dyslexia/tree/master/images/TextToSpeech.png" width="300">
+<img src="https://github.com/isha-git/App-for-Dyslexia/tree/master/images/TextToSpeechExample.jpeg" width="300">
 
 # Speech-to-Text
 In this part of the application, users can get spelling of any word.
 Google API and interfaces have been used.
 
-<img src="https://github.com/Isha-git/Coping-with-Dyslexia/tree/master/Images/SpeechToText.png" width="300">
-<img src="https://github.com/Isha-git/Coping-with-Dyslexia/tree/master/Images/SpeechToTextExample.png" width="600">
+<img src="https://github.com/isha-git/App-for-Dyslexia/tree/master/images/SpeechToText.png" width="300">
+<img src="https://github.com/isha-git/App-for-Dyslexia/tree/master/images/SpeechToTextExample.png" width="600">
 
 # Practice
 They can find the spellings and pronunciation of the words by using text-to-speech and speech-to-text and also store those words for further practice.
 
-<img src="https://github.com/Isha-git/Coping-with-Dyslexia/tree/master/Images/PracticeSpelling.jpeg" width="300">
-<img src="https://github.com/Isha-git/Coping-with-Dyslexia/tree/master/Images/PracticePronunciation.jpeg" width="300">
+<img src="https://github.com/isha-git/App-for-Dyslexia/tree/master/images/PracticeSpelling.jpeg" width="300">
+<img src="https://github.com/isha-git/App-for-Dyslexia/tree/master/images/PracticePronunciation.jpeg" width="300">
 
 <!--**Team Members**
 The project was developed with <a href="https://github.com/jagriti04">Jagriti</a> for the Optional Project (PR201) under the guidance of Dr. Sraban K. Mohanty at the Indian Instiute of Information Technology, Design and Manufacturing, Jabalpur, India.>
