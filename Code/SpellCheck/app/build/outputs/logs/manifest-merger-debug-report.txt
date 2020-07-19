@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fb0301de9e43b1a56c3225c5a6c989df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5df7a26e9ca1f0496e49d36fe39d2c08\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fbc05e80663de964ca3a69ae1fa1fa8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ece50a165bcb72222132ce95ff6c9ee1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\91f1b3afda5f3547727339a45507f718\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\02529189fc5365a12264c9e2fa55a269\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\475987a0c2251c1ff483dd5d840d9f81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\54bd290f4b65ea82fa33fe01f402e056\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\235fee0ee57113ca7a9e52e5a32777d8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c242b5ae89429c29df82a7c75bcf6c23\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3315a661a058090982a4d9527e9025a9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd8605d654131ac44ec9152fffe9941b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5df7a26e9ca1f0496e49d36fe39d2c08\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5df7a26e9ca1f0496e49d36fe39d2c08\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:9:9-40
+activity#com.example.android.spellcheck.MainActivity
+ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fb0301de9e43b1a56c3225c5a6c989df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fb0301de9e43b1a56c3225c5a6c989df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5df7a26e9ca1f0496e49d36fe39d2c08\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5df7a26e9ca1f0496e49d36fe39d2c08\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fbc05e80663de964ca3a69ae1fa1fa8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fbc05e80663de964ca3a69ae1fa1fa8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ece50a165bcb72222132ce95ff6c9ee1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ece50a165bcb72222132ce95ff6c9ee1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\91f1b3afda5f3547727339a45507f718\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\91f1b3afda5f3547727339a45507f718\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\02529189fc5365a12264c9e2fa55a269\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\02529189fc5365a12264c9e2fa55a269\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\475987a0c2251c1ff483dd5d840d9f81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\475987a0c2251c1ff483dd5d840d9f81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\54bd290f4b65ea82fa33fe01f402e056\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\54bd290f4b65ea82fa33fe01f402e056\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\235fee0ee57113ca7a9e52e5a32777d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\235fee0ee57113ca7a9e52e5a32777d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c242b5ae89429c29df82a7c75bcf6c23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c242b5ae89429c29df82a7c75bcf6c23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3315a661a058090982a4d9527e9025a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3315a661a058090982a4d9527e9025a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd8605d654131ac44ec9152fffe9941b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\S K Agni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd8605d654131ac44ec9152fffe9941b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\S K Agni\AndroidStudioProjects\spellcheck\app\src\main\AndroidManifest.xml
